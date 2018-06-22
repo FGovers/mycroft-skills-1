@@ -3,17 +3,21 @@ https://rawgit.com/MycroftAI/mycroft-skills/master/meta_editor.html
 
 
 ## YOUR SKILL NAME
-One line description of the skill
+Command the TinMan Robot to clean the room by picking up all 
+of the toys. 
 
 ## Description 
-A more verbose description, including any extra instructions or
-information that didn't fit in the one line.
+Sends command via ROS to the TinMan robot to pick up the toys in the room
 
 ## Examples 
-* "Hello world"
-* "Greetings planet earth"
-* "Count up"
-* "Count down"
+* "Let's clean up this room"
+* "Put away the toys"
+* "Pick up the toys"
+* "Put away the toys"
+* "Clean Up"
+* "Put those away"
+* "put this away"
+* "time to clean up"
 
 ## Credits 
-Your name
+Francis Govers
